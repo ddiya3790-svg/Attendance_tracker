@@ -1,0 +1,13 @@
+ATTENDANCE LOG
+========================================
+Student Name             Check-in Time  
+----------------------------------------
+Anisha                   5:00pm         
+Rriyam                   6:00pm         
+tiya                     7:00pm         
+yuyu                     7:00pm         
+riri                     7:00           
+----------------------------------------
+Total Present: 5
+Total Absent: 0
+Report Generated On: 2025-11-12 22:54:46
